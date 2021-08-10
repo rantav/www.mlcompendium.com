@@ -5,6 +5,7 @@
 1. [**40 questions on ensembles**](https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/?utm_source=facebook.com&utm_medium=social)
 2. [**30 on trees**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/?utm_source=facebook.com&utm_medium=social)
 3. [**30 on knns**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/?utm_source=facebook.com&utm_medium=social&fbclid=IwAR0JgeXKfyLGndL2_eMX7R6HLVY9la97V6QMIYb_4LnG56N-x1Oe5DsdhqE)
+4. [**Questions from a book about interview questions by Chip Huyen**](https://huyenchip.com/ml-interviews-book/contents/part-ii.-questions.html). (Also see below for the entire book) 
 
 ### **Politics**
 
@@ -18,6 +19,8 @@
    3. **Database design**
    4. **Data architecture/big data technologies**
    5. **Soft skills**
+
+2. [**ML Interviews book by Chip Huyen**](https://huyenchip.com/ml-interviews-book/)
 
 ### **WRITING DOCS**
 
